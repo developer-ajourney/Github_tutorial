@@ -1,0 +1,4 @@
+this is v1 of my project
+i want this to go into commit 2
+Changed by Hasan
+This is change now
